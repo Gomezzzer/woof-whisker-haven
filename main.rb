@@ -36,7 +36,7 @@ class PetAdoptionCenter
 end
 
 adoption_center = PetAdoptionCenter.new
-adoption_center.add_pet('Buddy', 'Dog')
+adoption_center.add_pet('Ozzy', 'Dog')
 adoption_center.add_pet('Whiskers', 'Cat')
 
 
